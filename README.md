@@ -1,5 +1,6 @@
 # MindScribe – Write. Reflect. Evolve.
 
+
 Welcome to **MindScribe**! This smart journaling app helps you understand your feelings and grow every day. With simple steps, you can write your thoughts, see your mood trends, and get ideas to feel better.
 
 ## Our Team Members
