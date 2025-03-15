@@ -7,8 +7,7 @@ Welcome to **MindScribe**! This smart journaling app helps you understand your f
 
 -Adiram Kumar
 -Garima Gupta
--Ankesh 
--Nitish Kumarb
+
 
 ## Key Features
 
