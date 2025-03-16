@@ -10,6 +10,9 @@ Welcome to **MindScribe**! This smart journaling app helps you understand your f
 -ankesh
 -Nitish 
 
+our demo
+https://mindscribe-journey.lovable.app/auth
+
 
 ## Key Features
 
